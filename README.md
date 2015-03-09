@@ -5,7 +5,7 @@
 node-http-proxy
 =======
 
-`node-http-proxy` is an HTTP programmable proxying library that supports
+`node-http-proxy` _(http-proxy in npm)_ is an HTTP programmable proxying library that supports
 websockets. It is suitable for implementing components such as
 proxies and load balancers.
 
@@ -19,6 +19,9 @@ proxies and load balancers.
 </p>
 
 ### Looking to Upgrade from 0.8.x ? Click [here](UPGRADING.md)
+
+### Installation 
+`npm install http-proxy --save`
 
 ### Core Concept
 
